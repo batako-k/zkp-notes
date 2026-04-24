@@ -7,5 +7,3 @@ This repository contains my study notes on:
 - VCs
 
 I am currently learning and exploring these topics.
-
-no problem
