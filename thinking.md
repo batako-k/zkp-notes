@@ -7,3 +7,5 @@
 
  Sometimes I feel like there are limits to self-study.
 It would probably be much easier if someone were there to guide me, like in school.
+久しぶりに楕円曲線の復習をした
+
