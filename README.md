@@ -1,8 +1,8 @@
-# ZKP Notes
+# ZKP
 
-This repository contains my study notes on:
+このリポジトリは私のが学習ノートである。
 
-- Zero-Knowledge Proofs
-- 
+- ゼロ知識証明(ZKP)
+- KZG
 
-I am currently learning and exploring these topics.
+
